@@ -3,7 +3,7 @@ It's a document enactment predictor with Telegram Bot interface
 ____________________________
 Accuracy ~ 85%
 
-It doesen't work well, it's still in developing, but WOW IT CAN PREDICT SOMETHING
+It doesen't work well, it's still developing, but WOW IT CAN PREDICT SOMETHING
 ____________________________
 
 -- Excel file dosie.xls contains names, authors and result: has the law passed or not.
