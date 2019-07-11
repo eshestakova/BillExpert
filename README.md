@@ -1,4 +1,4 @@
-# BillExpert
+ BillExpert
 Document enactment predictor with Telegram Bot interface
 ____________________________
 Accuracy ~ 85%
@@ -12,5 +12,5 @@ ____________________________
 
 -- In two .docx files Bill Expert (article) and Bill Expert (preview) are a long and a short descriptions of the project, respectively.
 
--- Bill Expert Presentation - well, obviously, a presentation, but there are only the keywords on the slides, you can't understand it without reading the article.
+-- Bill Expert Presentation - a presentation (obviously), but there are only the keywords on the slides, you can't understand it without reading the article.
 
