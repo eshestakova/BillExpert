@@ -14,3 +14,5 @@ ____________________________
 
 -- Bill Expert Presentation - a presentation (obviously), but there are only the keywords on the slides, you can't understand it without reading the article.
 
+_____________________________
+2018
